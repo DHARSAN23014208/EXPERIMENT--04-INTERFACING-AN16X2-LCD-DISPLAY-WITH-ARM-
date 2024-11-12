@@ -1,10 +1,6 @@
+## DATE:18/9/24
+## EX NO:04
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
-```
-NAME: ROSHINI S
-REG.NO: 212223240142
-DATE: 18.9.2024
-```
-
  ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
 ## Theory 
